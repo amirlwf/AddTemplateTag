@@ -5,7 +5,7 @@
 ### 🌍 Select Language / انتخاب زبان
 
 - 🇺🇸 [English](README_EN.md)
-- 🇮🇷 [فارسی](/README_FA.md)
+- 🇮🇷 [فارسی](README_FA.md)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
